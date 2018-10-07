@@ -1,2 +1,2 @@
 # Postgraduate
-如何读一篇优秀的计算机论文
+There are somethings about the postgraduate.
